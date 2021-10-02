@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sweet-cheeks-pastry/static/css/main.f1fd92eb.chunk.css",
+    "main.js": "/sweet-cheeks-pastry/static/js/main.06115446.chunk.js",
+    "main.js.map": "/sweet-cheeks-pastry/static/js/main.06115446.chunk.js.map",
+    "runtime-main.js": "/sweet-cheeks-pastry/static/js/runtime-main.d697a5f0.js",
+    "runtime-main.js.map": "/sweet-cheeks-pastry/static/js/runtime-main.d697a5f0.js.map",
+    "static/js/2.6020cabc.chunk.js": "/sweet-cheeks-pastry/static/js/2.6020cabc.chunk.js",
+    "static/js/2.6020cabc.chunk.js.map": "/sweet-cheeks-pastry/static/js/2.6020cabc.chunk.js.map",
+    "index.html": "/sweet-cheeks-pastry/index.html",
+    "static/css/main.f1fd92eb.chunk.css.map": "/sweet-cheeks-pastry/static/css/main.f1fd92eb.chunk.css.map",
+    "static/js/2.6020cabc.chunk.js.LICENSE.txt": "/sweet-cheeks-pastry/static/js/2.6020cabc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d697a5f0.js",
+    "static/js/2.6020cabc.chunk.js",
+    "static/css/main.f1fd92eb.chunk.css",
+    "static/js/main.06115446.chunk.js"
+  ]
+}
