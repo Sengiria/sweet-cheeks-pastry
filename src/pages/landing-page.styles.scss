@@ -104,3 +104,67 @@
     height: 100%;
     clip-path: circle(600px at right 800px);
 }
+
+
+@media (max-width: 991px) {
+    .content {
+        flex-direction: column;
+        margin-top: 100px;
+    
+        .textbox{
+            max-width: 100%;
+    
+            h2 {
+                font-size: 2.5em;
+                margin-bottom: 15px;
+    
+                span {
+                    
+                }
+            }
+    
+            p {
+
+            }
+    
+            a {
+
+            }
+        }
+    
+        .image-box {
+            max-width: 100%;
+            justify-content: center;
+            
+            img {
+                max-width: 300px;
+            }
+        }
+    }
+    .thumb {
+
+    
+        li {
+    
+            img {
+                max-width: 40px;
+            }
+        }
+    }
+    
+    .sci {
+
+    
+        li {
+
+    
+            a {
+
+            }
+        }
+    }
+
+    .circle {
+        clip-path: circle(400px at center bottom);
+    }
+}
